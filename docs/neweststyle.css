@@ -81,3 +81,10 @@ figcaption {
 section {
     margin-bottom: 40px;
 }
+
+.side-by-side-container {
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap; 
+    gap: 20px;
+}
