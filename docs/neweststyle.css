@@ -85,6 +85,6 @@ section {
 .side-by-side-container {
     display: flex;
     justify-content: center; 
-    flex-wrap: wrap; 
+    flex-wrap: nowrap; 
     gap: 20px;
 }
