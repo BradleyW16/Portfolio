@@ -94,7 +94,7 @@ figcaption {
 }
 
 .vertical-container img {
-    width: 300px; 
+    width: 500px; 
     height: auto; 
     transition: transform 0.3s, border 0.3s;
 }
